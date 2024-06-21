@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bsendpacket.github.io/loaders.re/sitemap.xml
