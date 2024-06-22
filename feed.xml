@@ -3,7 +3,7 @@
     <title>loaders.re</title>
     <link href="https://bsendpacket.github.io/loaders.re/feed.xml" rel="self" />
     <link href="https://bsendpacket.github.io/loaders.re" />
-    <updated>2024-06-21T18:03:54-04:00</updated>
+    <updated>2024-06-22T09:23:27-04:00</updated>
     <author>
         <name>bsendpacket, donaldduck8</name>
     </author>
@@ -77,6 +77,10 @@
 <tr>
 <td>C#</td>
 <td>Garnet</td>
+</tr>
+<tr>
+<td>D</td>
+<td>Axinite</td>
 </tr>
 <tr>
 <td>Dart</td>
